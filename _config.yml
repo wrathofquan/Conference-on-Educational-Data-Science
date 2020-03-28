@@ -1,4 +1,4 @@
-theme: jekyll-theme-slateplugins:
+theme: jekyll-theme-slate
   - jekyll-relative-links
 relative_links:
   enabled: true
