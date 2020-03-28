@@ -10,8 +10,8 @@
 <li>Start or join a Zoom meeting.</li>
 </ol>
 <ul>
-<li>If you’d like to share only slides and audio make sure to start the meeting with the <em>‘Start with video’</em> box <strong>unchecked</strong></li>
-<li>If you’d like to share your slides, audio, and a small thumbnail of your image make sure to start the meeting with the <em>‘Start with video’</em> <strong>checked</strong><br>
+<li>If you’d like to <strong>share only slides and audio</strong> make sure to start the meeting with the <em>‘Start with video’</em> box <strong>unchecked</strong></li>
+<li>If you’d like to <strong>share your slides, audio, and a small thumbnail of yourself</strong> make sure to start the meeting with the <em>‘Start with video’</em> <strong>checked</strong><br>
 <img src="https://stanford.box.com/shared/static/88lkr8j0n4jyu99utv26vem80vn9wrs6.gif=50x100" alt=""></li>
 </ul>
 <br>
@@ -34,7 +34,7 @@
 <ol start="7">
 <li>
 <p>To begin recording your screen navigate to your meeting controls: <strong>More &gt; Record on the computer</strong><br>
-<img src="https://stanford.box.com/shared/static/cgzd173julyovg6ojcv3b5zoloj0y57f.gif=50x100" alt=""><br>
+<img src="https://stanford.box.com/shared/static/cb82f0epqw9t1xkbwjf0jcazymzs5lj3.gif=50x100" alt=""><br>
 <br><br>
 <br></p>
 </li>
