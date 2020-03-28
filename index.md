@@ -15,7 +15,7 @@
 <ul>
 <li>If you’d like to share only slides and audio make sure to start the meeting with the <em>‘Start with video’</em> box <strong>unchecked</strong></li>
 <li>If you’d like to share your slides, audio, and a small thumbnail of your image make sure to start the meeting with the <em>‘Start with video’</em> <strong>checked</strong><br>
-<img src="https://stanford.box.com/shared/static/88lkr8j0n4jyu99utv26vem80vn9wrs6.gif" alt=""></li>
+<img src="https://stanford.box.com/shared/static/tc178k6sodg2mejwwj410lwokeaftjwf.gif" alt=""></li>
 </ul>
 <ol start="3">
 <li>Click  <strong>Share Screen</strong>  in the meeting controls.</li>
@@ -31,7 +31,7 @@
 </li>
 <li>
 <p>To begin recording your screen navigate to your meeting controls: <strong>More &gt; Record on the computer</strong><br>
-<img src="https://stanford.box.com/shared/static/cgzd173julyovg6ojcv3b5zoloj0y57f.gif" alt=""></p>
+<img src="https://stanford.box.com/shared/static/l66eeewkh3htvcdia1nk9v1hvnnj0kod.gif" alt=""></p>
 </li>
 <li>
 <p>Present!</p>
