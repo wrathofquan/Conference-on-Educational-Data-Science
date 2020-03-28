@@ -6,7 +6,6 @@
 <h1 id="recording-your-presentation-in-zoom">Recording your presentation in Zoom</h1>
 <ol>
 <li>Open the PowerPoint, Keynote, or Google Slides presentation you want to present.<br>
-<br><br>
 <br></li>
 <li>Start or join a Zoom meeting.</li>
 </ol>
@@ -55,7 +54,6 @@
 <img src="https://community.pepperdine.edu/it/images/zoom/end-meeting-2.png" alt=""><br>
 Your video will automatically begin saving to your computer’s location specified under: <a href="http://zoom.us">zoom.us</a> &gt; Preferences &gt; Recording<br>
 <br><br>
-<br><br>
 <br></p>
 </li>
 </ol>
@@ -65,10 +63,9 @@ Your video will automatically begin saving to your computer’s location specifi
 <li>upload your file to:<br>
 <a href="https://stanford.box.com/v/stanford-aera-ds-education">https://stanford.box.com/v/stanford-aera-ds-education</a><br>
 <img src="https://stanford.box.com/shared/static/pakwdv3w06oi0upq8jmgj3eynya08e11.gif" alt=""><br>
-<br><br>
-<br><br>
 <br></li>
 </ul>
+<p>🎉🎉🎉🎉🎉</p>
 <h2 id="more-guides">More Guides</h2>
 <ul>
 <li><a href="https://support.zoom.us/hc/en-us/articles/201362473-Local-Recording">Creating Local Recordings</a></li>
