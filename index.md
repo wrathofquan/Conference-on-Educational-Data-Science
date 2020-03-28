@@ -50,7 +50,8 @@ Your video will automatically begin saving to your computer’s location specifi
 <ul>
 <li>When you’ve finished recording, rename your .mp4 to &lt;your_name&gt;.mp4</li>
 <li>upload your file to:<br>
-<a href="https://stanford.box.com/v/stanford-aera-ds-education">https://stanford.box.com/v/stanford-aera-ds-education</a></li>
+<a href="https://stanford.box.com/v/stanford-aera-ds-education">https://stanford.box.com/v/stanford-aera-ds-education</a><br>
+<img src="https://stanford.box.com/shared/static/pakwdv3w06oi0upq8jmgj3eynya08e11.gif" alt=""></li>
 </ul>
 <h2 id="more-guides">More Guides</h2>
 <ul>
